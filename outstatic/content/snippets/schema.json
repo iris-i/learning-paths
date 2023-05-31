@@ -1,0 +1,13 @@
+{
+  "title": "snippets",
+  "type": "object",
+  "properties": {
+    "learningPath": {
+      "required": false,
+      "description": "The learning path this snippet is part of",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Learning Path"
+    }
+  }
+}
