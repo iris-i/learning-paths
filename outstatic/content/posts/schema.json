@@ -15,6 +15,13 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Category"
+    },
+    "intro": {
+      "required": false,
+      "description": "Post Intro",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Intro"
     }
   }
 }
