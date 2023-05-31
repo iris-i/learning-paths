@@ -15,13 +15,6 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Intro"
-    },
-    "body": {
-      "required": false,
-      "description": "",
-      "fieldType": "Text",
-      "dataType": "string",
-      "title": "Body"
     }
   }
 }
