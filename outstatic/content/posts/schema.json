@@ -2,13 +2,6 @@
   "title": "posts",
   "type": "object",
   "properties": {
-    "title": {
-      "required": true,
-      "description": "Post title",
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "Title"
-    },
     "category": {
       "required": false,
       "description": "Post Category",
